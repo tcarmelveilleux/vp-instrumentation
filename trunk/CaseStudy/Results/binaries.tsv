@@ -1,0 +1,9 @@
+binFilename	virtualPlatform	benchmark	triggerMethod	printf	putc	trace	optLevel	textSize	dataSize	rodataSize	bssSize
+../bin/VPI-case-study-Simics-QURT-trig_NONE-pf_C-trace_NONE-O0.elf	Simics	QURT	NONE	C	NONE	NONE	0	35992	1112	1320	744
+../bin/VPI-case-study-Simics-QURT-trig_NONE-pf_C-trace_NONE-O1.elf	Simics	QURT	NONE	C	NONE	NONE	1	35216	1112	1264	752
+../bin/VPI-case-study-Simics-QURT-trig_NONE-pf_C-trace_NONE-O2.elf	Simics	QURT	NONE	C	NONE	NONE	2	35124	1112	1264	752
+../bin/VPI-case-study-Simics-QURT-trig_NONE-pf_C-trace_NONE-O3.elf	Simics	QURT	NONE	C	NONE	NONE	3	35084	1112	1264	752
+../bin/VPI-case-study-Qemu-QURT-trig_NONE-pf_C-trace_NONE-O0.elf	Qemu	QURT	NONE	C	NONE	NONE	0	36224	1104	3160	744
+../bin/VPI-case-study-Qemu-QURT-trig_NONE-pf_C-trace_NONE-O1.elf	Qemu	QURT	NONE	C	NONE	NONE	1	35424	1104	3104	752
+../bin/VPI-case-study-Qemu-QURT-trig_NONE-pf_C-trace_NONE-O2.elf	Qemu	QURT	NONE	C	NONE	NONE	2	35340	1104	3104	752
+../bin/VPI-case-study-Qemu-QURT-trig_NONE-pf_C-trace_NONE-O3.elf	Qemu	QURT	NONE	C	NONE	NONE	3	35300	1104	3104	752

@@ -1,0 +1,7 @@
+binFilename	cpuStartTime	cpuStopTime	simTimeDuration	simDate
+../bin/VPI-case-study-Simics-QURT-trig_MAGIC-pf_NONE-trace_NONE-O2.elf	31	461585	0.270	Jan 12, 2011 18:54:27
+../bin/VPI-case-study-Simics-QURT-trig_MAGIC-pf_NONE-trace_GCC-O2.elf	34	867004	77.718	Jan 12, 2011 18:55:54
+../bin/VPI-case-study-Simics-QURT-trig_MAGIC-pf_NONE-trace_VPI-O2.elf	31	542754	81.392	Jan 12, 2011 18:57:26
+../bin/VPI-case-study-Simics-QURT-trig_GDB-pf_NONE-trace_NONE-O2.elf	31	461585	0.383	Jan 12, 2011 18:57:40
+../bin/VPI-case-study-Simics-QURT-trig_GDB-pf_NONE-trace_GCC-O2.elf	35	943139	3298.912	Jan 12, 2011 19:52:49
+../bin/VPI-case-study-Simics-QURT-trig_GDB-pf_NONE-trace_VPI-O2.elf	31	616379	3285.977	Jan 12, 2011 20:47:46
